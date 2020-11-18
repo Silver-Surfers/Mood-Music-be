@@ -9,5 +9,4 @@ describe('Mood-Music-be routes', () => {
 
     expect(response.body).toEqual(expect.any(Object));
   });
-  
 });
