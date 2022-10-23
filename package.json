@@ -34,5 +34,7 @@
     "node-fetch": "^2.6.1",
     "pg": "^8.5.0",
     "superagent": "^6.1.0"
-  }
+  },
+    "stack": "heroku-22"
 }
+
